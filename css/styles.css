@@ -3,13 +3,14 @@
     background-color: #ff4c68;
 }
 
+.container-fluid {
+    padding: 3% 15%;
+}
+
 .navbar-brand {
     font-family: "Ubuntu";
 }
 
-.container-fluid {
-    padding: 3% 15%;
-}
 
 .hero-title {
     padding-top: 8%;
@@ -21,4 +22,8 @@ h1 {
     font-weight: 900;
     line-height: 1.5;
     padding-bottom: 5%;
+}
+
+.phone {
+    transform: rotate(30deg);
 }
