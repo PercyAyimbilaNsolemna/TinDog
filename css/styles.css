@@ -24,7 +24,12 @@ h1 {
     padding-bottom: 5%;
 }
 
+.phone-div {
+    padding-top: 5%;
+}
+
+
 .phone {
-    width: 300px;
-    transform: rotate(30deg);
+    width: 330px;
+    transform: rotate(21deg);
 }
