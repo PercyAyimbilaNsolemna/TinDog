@@ -26,6 +26,11 @@ body {
     padding: 0 18px;
 }
 
+.nav-link {
+    font-size: 1.2rem;
+    font-family: "Montserrat-Light";
+}
+
 
 h1 {
     font-family: 'Montserrat-Black';
@@ -36,7 +41,7 @@ h1 {
 }
 
 
-.phone {
+/* .phone {
     width: 330px;
     transform: rotate(21deg);
-}
+} */
