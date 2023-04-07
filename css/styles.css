@@ -3,7 +3,9 @@
     background-color: #ff4c68;
 }
 
-
+.navbar-brand {
+    font-family: "Ubuntu";
+}
 
 .container-fluid {
     padding: 3% 15%;
