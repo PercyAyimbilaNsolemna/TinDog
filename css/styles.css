@@ -53,13 +53,20 @@ h1 {
     transform: rotate(25deg);
 }
 
+
 /* Features Section */
 
-/* Icons */
 .fa-solid {
     color: #ff4c68;
+    padding-bottom: 4%;
 }
 
 .row {
     text-align: center;
+}
+
+.features-heading {
+    font-family: 'Montserrat-Black', sans-serif;
+    font-size: 1.5rem;
+    font-weight: bolder;
 }
