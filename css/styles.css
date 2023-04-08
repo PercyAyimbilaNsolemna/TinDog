@@ -57,7 +57,7 @@ h1 {
 /* Features Section */
 
 .fa-solid {
-    color: #ff4c68;
+    color: #ef8172;
     padding-bottom: 4%;
 }
 
@@ -69,4 +69,8 @@ h1 {
     font-family: 'Montserrat-Black', sans-serif;
     font-size: 1.5rem;
     font-weight: bolder;
+}
+
+.features-description {
+    color: #8f8f8f;
 }
