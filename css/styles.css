@@ -4,6 +4,8 @@ body {
 #title {
     background-color: #ff4c68;
     color: #fff;
+    height: 100vh;
+    overflow: clip;
 }
 
 .container-fluid {
