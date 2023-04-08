@@ -71,7 +71,7 @@ h1 {
 .features-heading {
     font-family: 'Montserrat-Black', sans-serif;
     font-size: 1.5rem;
-    font-weight: 900;
+    font-weight: bolder;
 }
 
 .features-description {
@@ -79,5 +79,9 @@ h1 {
 }
 
 .features-content {
-    padding: 3% 3%;
+    padding: 4% 4%;
+}
+
+.fa-solid:hover {
+    color: #ff4c58;
 }
