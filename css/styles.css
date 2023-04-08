@@ -53,7 +53,10 @@ h1 {
     transform: rotate(25deg);
 }
 
-/* .phone {
-    width: 330px;
-    transform: rotate(21deg);
-} */
+/* Features Section */
+
+/* Icons */
+.fa-solid {
+    color: #ff4c68;
+}
+
