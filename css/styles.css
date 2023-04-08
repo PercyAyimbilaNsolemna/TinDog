@@ -56,21 +56,28 @@ h1 {
 
 /* Features Section */
 
+#features {
+    padding-top: 5%;
+}
 .fa-solid {
     color: #ef8172;
     padding-bottom: 4%;
 }
 
-.row {
+.features-row {
     text-align: center;
 }
 
 .features-heading {
     font-family: 'Montserrat-Black', sans-serif;
     font-size: 1.5rem;
-    font-weight: bolder;
+    font-weight: 900;
 }
 
 .features-description {
     color: #8f8f8f;
+}
+
+.features-content {
+    padding: 3% 3%;
 }
