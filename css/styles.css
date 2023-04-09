@@ -87,3 +87,11 @@ p {
 .icon:hover {
     color: #ff4c58;
 }
+
+/* Testimonial section */
+
+#testimonials {
+    background-color: #ef8172;
+    padding: 7% 15%;
+    text-align: center;
+}
