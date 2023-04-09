@@ -5,7 +5,7 @@ body {
     background-color: #ff4c68;
     color: #fff;
     height: 100vh;
-    overflow: clip;
+    /* overflow: clip; */
 }
 
 .container-fluid {
@@ -76,7 +76,10 @@ p {
 /* Features Section */
 
 #features {
+    background-color: #fff;
     padding: 7% 15%;
+    position: relative;
+    z-index: 1;
 }
 
 
