@@ -26,6 +26,14 @@ h3 {
     font-weight: bolder;
 }
 
+h2 {
+    color: #fff;
+    font-family: "Montserrat";
+    font-weight: bold;
+    font-size: 3rem;
+    line-height: 1.5;  
+}
+
 p {
     color: #8f8f8f;
 }
