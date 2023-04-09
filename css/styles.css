@@ -29,7 +29,7 @@ h3 {
 h2 {
     font-family: "Montserrat";
     font-weight: bold;
-    font-size: 3rem;
+    font-size: 2.8rem;
     line-height: 1.5;  
 }
 
@@ -99,8 +99,8 @@ p {
 
 #testimonials {
     background-color: #ef8172;
-    color: #fff;
     padding: 7% 15%;
+    color: #fff;   
     text-align: center;
 }
 
@@ -109,6 +109,10 @@ p {
     border-radius: 100%;
     margin: 20px;
 }
+
+/* .carousel-item {
+    padding: 7% 15%;
+} */
 
 /* Adding the press serctiomn to the testimonial section */
 
