@@ -177,6 +177,7 @@ Make the buttons in the pricing columns the same height
     font-size: 2rem;
     font-weight: bolder;
     line-height: 1.5;
+    padding-bottom: 3%;
 }
 
 /* Media query for responsiveness */
