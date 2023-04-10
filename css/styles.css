@@ -160,6 +160,16 @@ Make the buttons in the pricing columns the same height
 
 */
 
+/* Call to Action section */
+
+#cta {
+    background-color: #ff4c58;
+    width: 60%;
+    padding: 5% 7% 12% 7%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 /* Media query for responsiveness */
 
 @media (max-width: 1028px) {
