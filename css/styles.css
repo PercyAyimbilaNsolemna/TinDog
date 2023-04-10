@@ -195,6 +195,10 @@ Make the buttons in the pricing columns the same height
     margin-top: 20px;
 }
 
+.brands {
+    margin: 0 3%;
+}
+
 /* Media query for responsiveness */
 
 @media (max-width: 1028px) {
