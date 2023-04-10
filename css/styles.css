@@ -163,40 +163,32 @@ Make the buttons in the pricing columns the same height
 /* Call to Action section */
 
 #cta {
-    background-color: #ff4c58;
+    background-color: #ff4c68;
     color: #fff;
-    width: 60%;
     text-align: center;
-    padding: 5% 8% 6% 8%;
-    margin-left: auto;
-    margin-right: auto;   
+    padding: 7% 15%;  
 }
 
-.cta-header {
+.cta-heading {
     font-family: 'Montserrat-Black', sans-serif;
-    font-size: 2rem;
+    font-size: 3.3rem;
     font-weight: 900;
     line-height: 1.5;
-    padding-bottom: 3%;
 }
 
 /* Footer section */
 
 #footer {
     background-color: #fff;
-    width: 30%;
-    padding: 4% 7% 4% 7%;
+    padding: 7% 15%;
     margin: 2% auto;
     text-align: center;
     line-height: 1.5;
 }
 
-.copyright {
-    margin-top: 20px;
-}
 
-.brands {
-    margin: 0 3%;
+.social-icons {
+    margin: 20px 10px;
 }
 
 /* Media query for responsiveness */
