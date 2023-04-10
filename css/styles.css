@@ -180,6 +180,17 @@ Make the buttons in the pricing columns the same height
     padding-bottom: 3%;
 }
 
+/* Footer section */
+
+#footer {
+    background-color: #fff;
+    width: 30%;
+    padding: 4% 7% 4% 7%;
+    margin: 2% auto;
+    text-align: center;
+    line-height: 1.5;
+}
+
 /* Media query for responsiveness */
 
 @media (max-width: 1028px) {
