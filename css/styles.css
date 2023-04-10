@@ -167,7 +167,7 @@ Make the buttons in the pricing columns the same height
     color: #fff;
     width: 60%;
     text-align: center;
-    padding: 5% 10% 12% 10%;
+    padding: 5% 8% 6% 8%;
     margin-left: auto;
     margin-right: auto;   
 }
@@ -175,7 +175,7 @@ Make the buttons in the pricing columns the same height
 .cta-header {
     font-family: 'Montserrat-Black', sans-serif;
     font-size: 2rem;
-    font-weight: bolder;
+    font-weight: 900;
     line-height: 1.5;
     padding-bottom: 3%;
 }
