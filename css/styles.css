@@ -202,6 +202,11 @@ Make the buttons in the pricing columns the same height
     margin: 20px 10px;
 }
 
+
+.social-icons:hover {
+    cursor: pointer;
+}
+
 /* Media query for responsiveness */
 
 @media (max-width: 1028px) {
