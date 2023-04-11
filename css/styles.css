@@ -1,5 +1,6 @@
 body {
     font-family: 'Montserrat', sans-serif;
+    text-align: center;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -95,7 +96,6 @@ p {
 }
 
 .feature-box {
-    text-align: center;
     padding: 4.5%;
 }
 
@@ -109,7 +109,6 @@ p {
 #testimonials {
     background-color: #ef8172;
     color: #fff;   
-    text-align: center;
 }
 
 .testimonial-text {
@@ -134,7 +133,6 @@ p {
 #press {
     background-color: #ef8172;
     padding-bottom: 3%;
-    text-align: center;
 }
 
 .press-logo {
@@ -146,7 +144,6 @@ p {
 
 #pricing {
     padding: 100px;
-    text-align: center;
 }
 
 .section-heading {
@@ -178,7 +175,6 @@ Make the buttons in the pricing columns the same height
 #cta {
     background-color: #ff4c68;
     color: #fff;
-    text-align: center;
     padding: 7% 15%;  
 }
 
@@ -195,7 +191,6 @@ Make the buttons in the pricing columns the same height
     background-color: #fff;
     padding: 7% 15%;
     margin: 2% auto;
-    text-align: center;
     line-height: 1.5;
 }
 
