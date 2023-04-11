@@ -35,6 +35,15 @@ p {
 
 /* Sections */
 
+.colored-section {
+    background-color: #ff4c68;
+    color: #fff;
+}
+
+.white-section {
+    background-color: #fff;
+}
+
 
 /* Navigation bar */
 
