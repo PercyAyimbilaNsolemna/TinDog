@@ -27,13 +27,6 @@ p {
 }
 
 
-
-#title {
-    background-color: #ff4c68;
-    color: #fff;
-    text-align: left;
-}
-
 .container-fluid {
     padding: 3% 15% 5% 15%;
 }
@@ -61,11 +54,14 @@ p {
 }
 
 
-/* Download buttons */
+/* Title section */
 
-.download-button {
-    margin: 5% 3% 5% 0;
+#title {
+    background-color: #ff4c68;
+    color: #fff;
+    text-align: left;
 }
+
 
 /* Title Image */
 
@@ -78,6 +74,12 @@ p {
     transform: rotate(25deg);
     position: absolute;
     right: 30%;
+}
+
+/* Download buttons */
+
+.download-button {
+    margin: 5% 3% 5% 0;
 }
 
 
