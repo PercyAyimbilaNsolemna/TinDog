@@ -29,6 +29,7 @@ p {
 
 .container-fluid {
     /* padding: 3% 15% 5% 15%; */
+    padding: 7% 15%;
 }
 
 
@@ -87,7 +88,6 @@ p {
 
 #features {
     background-color: #fff;
-    padding: 7% 15%;
     position: relative;
     /* z-index: 1; */
 }
@@ -123,10 +123,6 @@ p {
     width: 10%;
     border-radius: 100%;
     margin: 20px;
-}
-
-.carousel-item {
-    padding: 7% 15%;
 }
 
 /* Adding the press serctiomn to the testimonial section */
@@ -178,7 +174,6 @@ Make the buttons in the pricing columns the same height
 #cta {
     background-color: #ff4c68;
     color: #fff;
-    padding: 7% 15%;  
 }
 
 .cta-heading {
@@ -192,7 +187,6 @@ Make the buttons in the pricing columns the same height
 
 #footer {
     background-color: #fff;
-    padding: 7% 15%;
     margin: 2% auto;
     line-height: 1.5;
 }
