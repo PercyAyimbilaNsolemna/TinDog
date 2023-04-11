@@ -205,6 +205,7 @@ Make the buttons in the pricing columns the same height
 
 .social-icons:hover {
     cursor: pointer;
+    font-size: 1.25em;
 }
 
 /* Media query for responsiveness */
