@@ -8,15 +8,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 
-h2 {
-    font-size: 2.6rem;
-    line-height: 1.5;  
-}
-
 h3 {
     font-size: 1.5rem;
 }
-
 
 
 p {
@@ -118,6 +112,11 @@ p {
     text-align: center;
 }
 
+.testimonial-text {
+    font-size: 2.6rem;
+    line-height: 1.5;
+}
+
 .testimonial-image {
     width: 10%;
     border-radius: 100%;
@@ -148,6 +147,16 @@ p {
 #pricing {
     padding: 100px;
     text-align: center;
+}
+
+.section-heading {
+    font-size: 2.6rem;
+    line-height: 1.5;  
+}
+
+.pricing-text {
+    font-size: 2.6rem;
+    line-height: 1.5;
 }
 
 .pricing-column {
