@@ -13,10 +13,6 @@ p {
     color: #8f8f8f;
 }
 
-.container-fluid {
-    padding: 7% 15%;
-}
-
 
 /* Headings */
 
@@ -30,6 +26,14 @@ p {
     font-size: 3rem;
     line-height: 1.5;  
 }
+
+/* Contianer */
+
+.container-fluid {
+    padding: 7% 15%;
+}
+
+/* Sections */
 
 
 /* Navigation bar */
@@ -56,14 +60,9 @@ p {
 
 /* Title section */
 
-#title {
-    background-color: #ff4c68;
-    color: #fff;
-    text-align: left;
-}
-
 #title .container-fluid {
-    padding: 3% 15% 5% 15%;
+    padding: 3% 15%;
+    text-align: left;
 }
 
 
@@ -90,9 +89,7 @@ p {
 /* Features Section */
 
 #features {
-    background-color: #fff;
     position: relative;
-    /* z-index: 1; */
 }
 
 
@@ -106,7 +103,7 @@ p {
 }
 
 .feature-title {
-    font-size: 1.5rem; 
+    font-size: 1.3rem; 
 }
 
 
@@ -117,8 +114,7 @@ p {
 /* Testimonial section */
 
 #testimonials {
-    background-color: #ef8172;
-    color: #fff;   
+    background-color: #ef8172;   
 }
 
 .testimonial-text {
@@ -178,11 +174,6 @@ Make the buttons in the pricing columns the same height
 
 /* Call to Action section */
 
-#cta {
-    background-color: #ff4c68;
-    color: #fff;
-}
-
 .cta-heading {
     font-family: 'Montserrat-Black', sans-serif;
     font-size: 3.3rem;
@@ -193,7 +184,6 @@ Make the buttons in the pricing columns the same height
 /* Footer section */
 
 #footer {
-    background-color: #fff;
     margin: 2% auto;
     line-height: 1.5;
 }
